@@ -1,7 +1,7 @@
 ###### hangman game #####
 
 
-"""
+
 def hangman(word):
     wrong = 0
     stages = ["",
@@ -47,7 +47,7 @@ def hangman(word):
               
 hangman("clock")
 
-"""
+
 
 """
 def hangman(word):
